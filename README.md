@@ -11,7 +11,7 @@ To host a room, open your Spotify account and begin playing any music. Visit THE
 
 
 ## Pricing and Availability
-For a limited time (and the foreseeable future), Social Nights is available for free to demo by anyone!
+For a limited time (and the foreseeable future), Social Nights is available for free to demo by anyone! ;)
 
 ---
 
