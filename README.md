@@ -7,7 +7,7 @@ To host a room, open your Spotify account and begin playing any music. Select "H
 Created July 12, 2018 in Austin, Texas.
 
 ---
-## Social Nights - Features
+## Spot Nite - Features
 - Creates colloborative music queues for your event
 - Allows users to vote on the sequence of the music
 - Keeps track of the best song selectors
