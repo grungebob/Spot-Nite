@@ -1,4 +1,4 @@
-# Social Nights - Collaborative music selection for your next get-together.
+# Spot Nite - Collaborative music selection for your next get-together.
 
 Social Nights allows any user to select and vote for songs played on a host's Spotify account. Users earn and lose points each time their songs are voted up or down in the queue. See who can win the most points and become the nights best DJ! 
 
